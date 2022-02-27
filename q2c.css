@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.bodyq2c{
+	background-color: greenyellow;
+}
+.q2cgif{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.next{
+	font-size: 200%;
+	color: purple;
+}

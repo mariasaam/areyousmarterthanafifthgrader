@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.instruction {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: blue;
+	text-align: center;
+	font-size: 250%
+	
+}
+
+.title{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 52px;
+	color: chartreuse;
+	text-align: center;
+	background-color: orange
+	
+}
+.body{
+	background-color: dimgrey;
+}
+.start{
+	color: red;
+	font-size: 300%;
+	
+}

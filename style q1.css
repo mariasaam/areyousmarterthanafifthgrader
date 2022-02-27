@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.bodyq1{
+	background-color: dimgrey
+}
+.q1title{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 200%;
+	color: darkorange;
+}
+.q1a{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 150%;
+	color: deepskyblue
+}
+.q1b{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 150%;
+	color: deepskyblue
+}
+.q1c{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 150%;
+	color: deepskyblue
+}
+.q1d{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 150%;
+	color: deepskyblue
+}
+

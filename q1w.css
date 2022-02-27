@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.body{
+	background-color: red;
+	
+}
+.q1wrong{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;	
+}
+.next{
+	font-size: 200%;
+	color: black;
+}
